@@ -55,7 +55,7 @@ Alibbit AI Client is a powerful, cross-platform AI model client that brings mult
 If you find Alibbit AI Client helpful, consider supporting our development:
 
 <div align="center">
-  <img src="ali.png" alt="Support Us" width="300"/>
+  <img src="ali.jpg" alt="Support Us" width="300"/>
   <p><i>Scan to support via Alipay</i></p>
 </div>
 
