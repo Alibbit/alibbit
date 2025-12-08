@@ -55,7 +55,7 @@ Alibbit AI 客户端是一款功能强大的跨平台 AI 大模型客户端，�
 如果您觉得 Alibbit AI 客户端对您有帮助，欢迎赞助支持我们的开发工作：
 
 <div align="center">
-  <img src="ali.png" alt="赞助支持" width="300"/>
+  <img src="ali.jpg" alt="赞助支持" width="300"/>
   <p><i>扫码通过支付宝赞助</i></p>
 </div>
 
