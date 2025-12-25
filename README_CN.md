@@ -8,6 +8,26 @@
 
 Alibbit AI 客户端是一款功能强大的跨平台 AI 大模型客户端，将多个 AI 服务整合到统一界面中，让您在所有设备上都能流畅使用 AI。
 
+<div align="center">
+
+### 桌面端体验
+<img src="mac_intro.png" alt="macOS 客户端界面" width="600"/>
+
+### 移动端体验
+<table>
+  <tr>
+    <td align="center">
+      <img src="intro_phone2.png" alt="移动端界面 1" width="250"/>
+    </td>
+    <td align="center">
+      <img src="intro_phone1.png" alt="移动端界面 2" width="250"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ## 核心特性
 
 - **支持多种 AI 大模型**
